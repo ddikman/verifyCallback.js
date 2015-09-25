@@ -38,3 +38,10 @@ function asyncRequest(callback){
 };
 
 ```
+
+## Forking
+Only a few tests, runs with mocha, I expect you'll have to have it installed globally to run:
+``` javascript
+npm install mocha -g
+npm test
+```
