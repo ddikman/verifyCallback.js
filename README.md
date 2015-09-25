@@ -16,7 +16,7 @@ npm install verifyCallback.js
 ## Usage
 The verifyCallback is really just a simple method so require it and call it whatever works and fits your naming sense:
 ``` javascript
-var verify = require('verifyCallback')
+var verify = require('verify-calback')
 
 function asyncRequest(callback){
 
@@ -29,7 +29,7 @@ function asyncRequest(callback){
 or maybe a bit more explicit
 
 ``` javascript
-var verifyCallback = require('verifyCallback')
+var verifyCallback = require('verify-calback')
 
 function asyncRequest(callback){
 
