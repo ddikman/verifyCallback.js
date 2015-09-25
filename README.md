@@ -10,7 +10,7 @@ I had a quick look around and didn't find any simple library to verify this kind
 
 ## Installation
 ``` bash
-npm install verifyCallback.js
+npm install verify-callback
 ```
 
 ## Usage

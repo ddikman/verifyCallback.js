@@ -1,6 +1,6 @@
 {
   "name": "verify-callback",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A very, very small node/javascript module to verify if a callback is a callback",
   "main": "verifyCallback.js",
   "scripts": {
