@@ -1,0 +1,30 @@
+{
+  "name": "verifyCallback.js",
+  "version": "0.0.1",
+  "description": "A very, very small node/javascript module to verify if a callback is a callback",
+  "main": "verifyCallback.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddikman/verifyCallback.js.git"
+  },
+  "keywords": [
+    "verify",
+    "callback",
+    "node",
+    "js",
+    "codebycontract"
+  ],
+  "author": "David Dikman",
+  "license": "Apache Licence 2.0",
+  "bugs": {
+    "url": "https://github.com/ddikman/verifyCallback.js/issues"
+  },
+  "homepage": "https://github.com/ddikman/verifyCallback.js",
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.0"
+  }
+}
