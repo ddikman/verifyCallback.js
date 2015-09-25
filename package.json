@@ -1,5 +1,5 @@
 {
-  "name": "verifyCallback.js",
+  "name": "verify-callback",
   "version": "1.0.0",
   "description": "A very, very small node/javascript module to verify if a callback is a callback",
   "main": "verifyCallback.js",

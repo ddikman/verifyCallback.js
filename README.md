@@ -44,3 +44,6 @@ Only a few tests, runs with mocha, I expect you'll have to have it installed glo
 npm install mocha -g
 npm test
 ```
+
+## On NPM
+[https://www.npmjs.com/package/verify-callback](https://www.npmjs.com/package/verify-callback)
