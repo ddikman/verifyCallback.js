@@ -36,7 +36,6 @@ function asyncRequest(callback){
 	verifyCallback(callback);
 	
 };
-
 ```
 
 ## Forking
