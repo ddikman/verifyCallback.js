@@ -47,3 +47,6 @@ npm test
 
 ## On NPM
 [https://www.npmjs.com/package/verify-callback](https://www.npmjs.com/package/verify-callback)
+
+## Promise
+Using callbacks is a bit old school, please see [promise](https://www.npmjs.com/package/promise) for a better alternative.
